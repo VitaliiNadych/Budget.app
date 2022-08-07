@@ -1,4 +1,4 @@
-// BUDGET CONTROLLER
+// BUDGET CONTROLL
 let budgetController = (function() {
     
     let Expense = function(id, description, value) {
